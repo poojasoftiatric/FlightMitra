@@ -23,7 +23,7 @@ FlightMitra is a modern web application designed to streamline travel planning, 
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/your-username/flightmitra.git
+git clone https://github.com/poojasoftiatric/FlightMitra.git
 cd flightmitra
 ```
 
